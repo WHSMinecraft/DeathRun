@@ -1,6 +1,9 @@
-name: PluginTemplate
-main: de.whsminecraft.PluginTemplate.Main
+name: DeathRun
+main: de.whsminecraft.DeathRun.Main
 author: Ruben Ollesch
 api-version: 1.16
 version: 1.0
 website: https://whsminecraft.de
+commands:
+  deathrun:
+    description: Bla bla
